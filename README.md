@@ -3,4 +3,4 @@ Test repository
 
 hello
 
-github is awesome
+github is awesome!
